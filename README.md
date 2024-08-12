@@ -11,5 +11,9 @@ I'm using it as a playground to learn and practice the Vue Composition API, so e
 - **Animations**: Improving animations for fish movements and interactions.
 - **Mini Game**: Fish will have a hunger indicator, and you will have to feed
 
+## 🏆 Credits
+The main idea for the Aquarium app (and images) comes from *Official Vue.js Certification* site (https://certificates.dev/vuejs/).
+Special thanks to the Vue team for providing such a valuable resource and inspiration.
+
 ## 👁️ Preview
 https://aquarium-sandbox.netlify.app
